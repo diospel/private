@@ -1,332 +1,1964 @@
 [
     {
-        "array": [
+        "webhook": {
+            "id": 352,
+            "action": "order.create",
+            "url": "https://hook.us1.make.com/xbuxbh8315p6ivgt9fveqlrk5ib4kt6k"
+        },
+        "tickets": [
             {
-                "object": "ticket_question",
-                "id": "43030457-1001",
-                "answers": [
+                "object": "ticket",
+                "id": 43030461,
+                "agency_id": "CA",
+                "attached": false,
+                "canceled": false,
+                "canceled_at": null,
+                "capacity": true,
+                "channel": "online",
+                "chat_hidden_authors": [],
+                "chat_moderator": false,
+                "chat_restricted": false,
+                "chat_verified": false,
+                "complimentary": false,
+                "created_at": 1683019221,
+                "data": [
                     {
-                        "question_choice_id": null,
-                        "value": "Prenom"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 1001,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-1002",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "Nom"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 1002,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-1004",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "Ville"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 1004,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-1005",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "QC"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 1005,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-1006",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "CA"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 1006,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-1007",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "H2L3S2"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 1007,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-1008",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "4384101687"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 1008,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-1009",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "leo@avalancheprod.com"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 1009,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-1011",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "Compagnie"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 1011,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-4570",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "Biohraphr"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 4570,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-4571",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "Fonction"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 4571,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-4592",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "www.google.fr"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 4592,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-4667",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "https://tpos-user-uploads.s3.ca-central-1.amazonaws.com/2023/05/02/5244993/yYuyEjmSxBSPtIGb/Capture d’écran, le 2023-04-26 à 16.27.52.png"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 4667,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-4676",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": "https://tpos-user-uploads.s3.ca-central-1.amazonaws.com/2023/05/02/5244993/dyavZp2s2QWovE18/Capture d’écran, le 2023-05-01 à 10.51.13.png"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 4676,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-7210",
-                "answers": [
-                    {
-                        "question_choice_id": null,
-                        "value": true
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 7210,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-9351",
-                "answers": [
-                    {
-                        "question_choice_id": 19968,
-                        "value": "Australie"
+                        "field": {
+                            "id": 1001,
+                            "type": "text",
+                            "label": "First Name"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "Prenom"
+                            }
+                        ]
                     },
                     {
-                        "question_choice_id": 19969,
-                        "value": "Belgique"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 9351,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-9352",
-                "answers": [
-                    {
-                        "question_choice_id": 19980,
-                        "value": "Allemagne"
+                        "field": {
+                            "id": 1002,
+                            "type": "text",
+                            "label": "Last Name"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "Nom"
+                            }
+                        ]
                     },
                     {
-                        "question_choice_id": 19982,
-                        "value": "Asie"
+                        "field": {
+                            "id": 1011,
+                            "type": "text",
+                            "label": "Company"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "Compagnie"
+                            }
+                        ]
                     },
                     {
-                        "question_choice_id": 19983,
-                        "value": "Australie"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 9352,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-9353",
-                "answers": [
-                    {
-                        "question_choice_id": 19995,
-                        "value": "Animation"
+                        "field": {
+                            "id": 4571,
+                            "type": "text",
+                            "label": "Title"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "Fonction"
+                            }
+                        ]
                     },
                     {
-                        "question_choice_id": 20000,
-                        "value": "Effets visuels"
+                        "field": {
+                            "id": 1004,
+                            "type": "text",
+                            "label": "City"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "Ville"
+                            }
+                        ]
                     },
                     {
-                        "question_choice_id": 20001,
-                        "value": "Environnement immersif/interactif/réactif"
+                        "field": {
+                            "id": 1006,
+                            "type": "country",
+                            "label": "Country"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "CA"
+                            }
+                        ]
                     },
                     {
-                        "question_choice_id": 20002,
-                        "value": "Événementiel"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 9353,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-9354",
-                "answers": [
-                    {
-                        "question_choice_id": 20020,
-                        "value": "Animation"
-                    }
-                ],
-                "ticket_id": 43030457,
-                "question_id": 9354,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-9355",
-                "answers": [
-                    {
-                        "question_choice_id": 20046,
-                        "value": "Un concept"
+                        "field": {
+                            "id": 1005,
+                            "type": "province",
+                            "label": "Province/State"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "QC"
+                            }
+                        ]
                     },
                     {
-                        "question_choice_id": 20047,
-                        "value": "Des services ou une expertise pour un projet"
+                        "field": {
+                            "id": 1007,
+                            "type": "text",
+                            "label": "Postal Code"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "H2L3S2"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 1009,
+                            "type": "email",
+                            "label": "Email"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "leo@avalancheprod.com"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 9358,
+                            "type": "checkbox",
+                            "label": "Sign me up for the HUB Montréal newsletter"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": true
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 1008,
+                            "type": "tel",
+                            "label": "Phone Number"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "4384101687"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 4592,
+                            "type": "text",
+                            "label": "Website"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "www.google.fr"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 4570,
+                            "type": "longtext",
+                            "label": "Biography (max 50 words. Recommended but not mandatory)"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "Bio"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 7210,
+                            "type": "checkbox",
+                            "label": "I authorize HUB Montreal to publish my picture and/or my company logo on www.hubmontreal.com and/or our virtual platform (Swapcard)."
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": true
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 9351,
+                            "type": "multiple",
+                            "label": "In which territory(ies) do you currently operate?"
+                        },
+                        "values": [
+                            {
+                                "id": 19968,
+                                "value": "Australia"
+                            },
+                            {
+                                "id": 19970,
+                                "value": "Canada"
+                            },
+                            {
+                                "id": 19971,
+                                "value": "United Arab Emirates"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 9352,
+                            "type": "multiple",
+                            "label": "In which territory(ies) do you wish to develop?"
+                        },
+                        "values": [
+                            {
+                                "id": 19980,
+                                "value": "Germany"
+                            },
+                            {
+                                "id": 19982,
+                                "value": "Asia"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 9355,
+                            "type": "multiple",
+                            "label": "What are you looking for at HUB Montreal?"
+                        },
+                        "values": [
+                            {
+                                "id": 20045,
+                                "value": "a broadcast-ready project"
+                            },
+                            {
+                                "id": 20046,
+                                "value": "A concept"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 9354,
+                            "type": "multiple",
+                            "label": "What are the areas of expertise of the people you want to meet?"
+                        },
+                        "values": [
+                            {
+                                "id": 20020,
+                                "value": "Animation"
+                            },
+                            {
+                                "id": 20022,
+                                "value": "Digital Art"
+                            },
+                            {
+                                "id": 20023,
+                                "value": "Design and multimedia"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 9353,
+                            "type": "multiple",
+                            "label": "Which sectors best represent your field of expertise and that of your company?"
+                        },
+                        "values": [
+                            {
+                                "id": 19995,
+                                "value": "Animation"
+                            },
+                            {
+                                "id": 19998,
+                                "value": "Design and multimedia"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 9356,
+                            "type": "multiple",
+                            "label": "You want to meet companies at HUB Montreal that offer or are looking for..."
+                        },
+                        "values": [
+                            {
+                                "id": 20053,
+                                "value": "a broadcast-ready project"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 9357,
+                            "type": "longtext",
+                            "label": "Other pertinent information regarding your objectives"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "Autres"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 4676,
+                            "type": "file",
+                            "label": "Company logo"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "https://tpos-user-uploads.s3.ca-central-1.amazonaws.com/2023/05/02/5244995/05iGYYwAGAb4Kxab/Capture d’écran, le 2023-05-01 à 10.51.13.png"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 4667,
+                            "type": "file",
+                            "label": "Headshot (Recommended but not mandatory)"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "https://tpos-user-uploads.s3.ca-central-1.amazonaws.com/2023/05/02/5244995/GnU8qOc2tn2M5snh/Capture d’écran, le 2023-04-26 à 16.27.52.png"
+                            }
+                        ]
                     }
                 ],
-                "ticket_id": 43030457,
-                "question_id": 9355,
-                "updated_at": 1683018128
+                "delivery": "electronic",
+                "event_id": 318293,
+                "fee": 0,
+                "fee_insurance": 0,
+                "fee_insurance_rate": 0,
+                "fee_organizer": 0,
+                "fee_organizer_amount": 0,
+                "fee_organizer_rate": 0,
+                "fee_ticketing": 0,
+                "fee_ticketing_amount": 0,
+                "fee_ticketing_rate": 0,
+                "fee_transaction": 0,
+                "fee_transaction_in_ticketing_fee": false,
+                "fee_transaction_rate": 0,
+                "fields": [],
+                "gate_id": null,
+                "google_pay_object_id": null,
+                "issuance": true,
+                "lang": "fr",
+                "order_id": 5244995,
+                "organizer_id": "LGN",
+                "parent_id": null,
+                "parent_type": null,
+                "password": null,
+                "payment_organizer_account_id": 3064,
+                "payment_organizer_account_owner_id": "LGN",
+                "payment_organizer_account_owner_type": "ticketing",
+                "payment_ticketing_account_id": 282,
+                "payment_ticketing_account_owner_id": "CA",
+                "payment_ticketing_account_owner_type": "ticketing",
+                "payment_terminal_account_id": null,
+                "payment_terminal_account_owner_id": null,
+                "payment_terminal_account_owner_type": null,
+                "pickedup": false,
+                "price": 0,
+                "printed": false,
+                "promotion_id": 11448,
+                "promotion_code": "TESTTESTHUB23",
+                "promotion_discount": "-1081.71",
+                "questions": [
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-1001",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "Prenom"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 1001,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-1002",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "Nom"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 1002,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-1004",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "Ville"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 1004,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-1005",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "QC"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 1005,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-1006",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "CA"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 1006,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-1007",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "H2L3S2"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 1007,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-1008",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "4384101687"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 1008,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-1009",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "leo@avalancheprod.com"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 1009,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-1011",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "Compagnie"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 1011,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-4570",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "Bio"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 4570,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-4571",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "Fonction"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 4571,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-4592",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "www.google.fr"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 4592,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-4667",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "https://tpos-user-uploads.s3.ca-central-1.amazonaws.com/2023/05/02/5244995/GnU8qOc2tn2M5snh/Capture d’écran, le 2023-04-26 à 16.27.52.png"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 4667,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-4676",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "https://tpos-user-uploads.s3.ca-central-1.amazonaws.com/2023/05/02/5244995/05iGYYwAGAb4Kxab/Capture d’écran, le 2023-05-01 à 10.51.13.png"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 4676,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-7210",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": true
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 7210,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-9351",
+                        "answers": [
+                            {
+                                "question_choice_id": 19968,
+                                "value": "Australie"
+                            },
+                            {
+                                "question_choice_id": 19970,
+                                "value": "Canada"
+                            },
+                            {
+                                "question_choice_id": 19971,
+                                "value": "Émirats Arabes Unis"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 9351,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-9352",
+                        "answers": [
+                            {
+                                "question_choice_id": 19980,
+                                "value": "Allemagne"
+                            },
+                            {
+                                "question_choice_id": 19982,
+                                "value": "Asie"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 9352,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-9353",
+                        "answers": [
+                            {
+                                "question_choice_id": 19995,
+                                "value": "Animation"
+                            },
+                            {
+                                "question_choice_id": 19998,
+                                "value": "Design multimédia"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 9353,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-9354",
+                        "answers": [
+                            {
+                                "question_choice_id": 20020,
+                                "value": "Animation"
+                            },
+                            {
+                                "question_choice_id": 20022,
+                                "value": "Art numérique"
+                            },
+                            {
+                                "question_choice_id": 20023,
+                                "value": "Design multimédia"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 9354,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-9355",
+                        "answers": [
+                            {
+                                "question_choice_id": 20045,
+                                "value": "Un projet prêt à diffusion"
+                            },
+                            {
+                                "question_choice_id": 20046,
+                                "value": "Un concept"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 9355,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-9356",
+                        "answers": [
+                            {
+                                "question_choice_id": 20053,
+                                "value": "Un projet prêt à diffusion"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 9356,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-9357",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "Autres"
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 9357,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030461-9358",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": true
+                            }
+                        ],
+                        "ticket_id": 43030461,
+                        "question_id": 9358,
+                        "updated_at": 1683019222
+                    }
+                ],
+                "rate_id": 1120025,
+                "reserve_id": null,
+                "seat_id": null,
+                "sequence": 15,
+                "shipped": false,
+                "streaming_ended_at": [],
+                "streaming_survey_submitted_at": null,
+                "subscription_plan_id": null,
+                "tax": 0,
+                "tax_details": [],
+                "tax_fee_organizer": 0,
+                "tax_fee_organizer_details": [],
+                "tax_fee_organizer_taxable": 0,
+                "tax_fee_ticketing": 0,
+                "tax_fee_ticketing_details": [],
+                "tax_fee_ticketing_taxable": 0,
+                "tax_price": 0,
+                "tax_price_details": [],
+                "tax_price_taxable": 0,
+                "tax_taxable": 0,
+                "token": "wMHM6c9ek9Wem4QybXBZuJAHY1ObVyHi3VS44KGT",
+                "total": 0,
+                "transfers": [],
+                "uid": [
+                    {
+                        "code": "553130758889",
+                        "type": "QR"
+                    }
+                ],
+                "updated_at": 1683019221,
+                "validated": false,
+                "validated_at": null,
+                "validations": [],
+                "zone_id": null,
+                "event": {
+                    "acts": [],
+                    "agency_id": "CA",
+                    "attendance_mode": "offline",
+                    "currency_id": "CAD",
+                    "countries_allow": [],
+                    "countries_deny": [],
+                    "custom_id": null,
+                    "settled_at": false,
+                    "date_starts": "2023-10-16",
+                    "date_ends": "2023-10-18",
+                    "dates": [
+                        {
+                            "date": "2023-10-16",
+                            "entrance_at": 1697461200,
+                            "starts_at": 1697500800,
+                            "ends_at": 1697511600
+                        },
+                        {
+                            "date": "2023-10-17",
+                            "entrance_at": 1697547600,
+                            "starts_at": 1697587200,
+                            "ends_at": 1697598000
+                        },
+                        {
+                            "date": "2023-10-18",
+                            "entrance_at": 1697634000,
+                            "starts_at": 1697673600,
+                            "ends_at": 1697684400
+                        }
+                    ],
+                    "deleted": false,
+                    "delivery_electronic": {},
+                    "delivery_mail": {},
+                    "delivery_pickup": {},
+                    "description": {
+                        "fr": "<p><strong>HUB Montréal, le marché international de la créativité numérique revient pour une 7ème édition du 16 au 18 octobre 2023. </strong>Le rendez-vous incontournable de l’automne pour échanger, tisser des liens et découvrir les dernières tendances de la créativité numérique en présence de professionnels du monde entier.</p>\r\n<p>À l’occasion de cette 7e édition, 2 nouveautés seront proposées: les tables-rondes et ateliers d’échanges (“workshops “) qui permettront aux participants de partager leur expertise sur les innovations les plus récentes du secteur, leur connaissance des secteurs connexes, et d'échanger autour de l'impact social de l'industrie.</p>\r\n<p>Ne manquez rien de la 7e édition de HUB Montréal grâce à la passe PLATINUM! Il vous donnera accès à l’intégralité de nos contenus (les activités professionnelles, les tables rondes et ateliers d’échanges, le  parcours expérientiel etc…) ainsi qu’à notre soirée de clôture, l’opportunité parfaite de vivre une expérience 360!</p>\r\n<p><strong>La passe PLATINUM comprend l'accès à l’intégralité de nos contenus et à la soirée de clôture (valeur de la soirée 225$ + taxes).</strong></p>\r\n<p><strong>La passe PLATINUM vous donne accès à: </strong></p>\r\n<p><strong>- Minimum de 5 rencontres B2B personnalisées</strong> par notre conciergerie - Accès aux conférences et vitrines ;</p>\r\n<p>-Accès à l'espace démo ;</p>\r\n<p>- Accès aux workshops et tables rondes ;</p>\r\n<p>- Accès prioritaire aux différentes activités du parcours expérientiel dans la ville de Montréal ;</p>\r\n<p>- Accès aux espaces de réseautage libre ;</p>\r\n<p>- Plateforme virtuelle et application mobile – profil, contenu et réseautage libre</p>\r\n<p>La plateforme en ligne sera accessible avant et après l’événement, soit du 10 au 25 octobre, afin de vous laisser le temps et l'espace nécessaire aux connexions et aux échanges.</p>\r\n<p><strong>ET ENCORE...</strong></p>\r\n<p>- 3 x Déjeuner réseautage</p>\r\n<p>- 3 x Midi-maillages – lunch inclus</p>\r\n<p>- 3 x 5@7 – Maillage et breuvages</p>\r\n<p>- La soirée de clôture de HUB 2023 (5@7, souper-réseautage et remise des prix).</p>",
+                        "en": "<p><strong>HUB Montréal, the international digital creativity market, is back for its 7th edition from October 16 to 18, 2023.</strong> This fall’s must-visit event to exchange ideas, build work relationships and discover the latest trends in digital creativity with professionals from all over the world<strong>.</strong></p>\r\n<p>For this 7th edition, two new activities will be offered: roundtables and exchange workshops that will allow participants to share their expertise on the latest innovations in the sector, their knowledge of related sectors, and to exchange around the social impact of the industry.</p>\r\n<p>Don't miss anything from the 7th edition of HUB Montréal thanks to the PLATINUM badge! It will give you access to all of our content (professional activities, roundtables and exchange workshops, experiential path, etc. . . ) as well as to our closing evening, the perfect opportunity to live a 360-degree experience!</p>\r\n<p><strong>The PLATINUM badge includes a complete access to all of our content and the closing night (value of the closing night $225 + taxes).</strong></p>\r\n<p><strong>The PLATINUM package gives you access to:</strong></p>\r\n<p><strong>- A minimum of 5 B2B meetings</strong> personalized by our concierge;</p>\r\n<p>- Access to conferences and showcases;</p>\r\n<p>-Access to the demo space;</p>\r\n<p>- Access to workshops and roundtables; </p>\r\n<p>- Priority access to the various activities of the HUB(mazing) tour in the city of Montreal;</p>\r\n<p>- Access to open networking spaces;</p>\r\n<p>- Virtual platform and mobile app – open profile, content and networking</p>\r\n<p>The online platform will be available before and after the event, from October 10 to 25, to give you time and space to connect and exchange.</p>\r\n<p><strong>AND AGAIN. . .</strong></p>\r\n<p>- 3 x Networking Lunch</p>\r\n<p>- 3 x Speed meetings – lunch included</p>\r\n<p>- 3 x 5@7 – speed meetings and drinks</p>\r\n<p>- The closing night of HUB 2023 (5@7, dinner-networking and awards ceremony).</p>"
+                    },
+                    "directions": {},
+                    "display_attendees": false,
+                    "display_chat": true,
+                    "display_date": true,
+                    "display_fees": true,
+                    "display_location": true,
+                    "display_presenter": true,
+                    "display_time": false,
+                    "display_viewers": true,
+                    "donation_campaign_id": null,
+                    "ends_at": 1697684400,
+                    "entrance_at": 1697461200,
+                    "etickets_text": {},
+                    "google_pay_class_id": null,
+                    "groups": [
+                        9704
+                    ],
+                    "id": 318293,
+                    "images": {
+                        "fr": [
+                            {
+                                "path": "https://tpos.s3.amazonaws.com/events/LGN/23/10/19/001/lgn231019001-1152x648-fr-6448f4cc.png",
+                                "width": 1152,
+                                "height": 648
+                            },
+                            {
+                                "path": "https://tpos.s3.amazonaws.com/events/LGN/23/10/19/001/lgn231019001-640x360-fr-m-6448f4cc.png",
+                                "width": 640,
+                                "height": 360
+                            },
+                            {
+                                "path": "https://tpos.s3.amazonaws.com/events/LGN/23/10/19/001/lgn231019001-320x180-fr-s-6448f4cc.png",
+                                "width": 320,
+                                "height": 180
+                            }
+                        ],
+                        "en": [
+                            {
+                                "path": "https://tpos.s3.amazonaws.com/events/LGN/23/10/19/001/lgn231019001-1152x648-en-6448f4cd.png",
+                                "width": 1152,
+                                "height": 648
+                            },
+                            {
+                                "path": "https://tpos.s3.amazonaws.com/events/LGN/23/10/19/001/lgn231019001-640x360-en-m-6448f4ce.png",
+                                "width": 640,
+                                "height": 360
+                            },
+                            {
+                                "path": "https://tpos.s3.amazonaws.com/events/LGN/23/10/19/001/lgn231019001-320x180-en-s-6448f4cd.png",
+                                "width": 320,
+                                "height": 180
+                            }
+                        ]
+                    },
+                    "key": "hubplatinum2023",
+                    "languages": [
+                        "fr",
+                        "en"
+                    ],
+                    "name": {
+                        "fr": "HUB Montréal 2023 - Passe PLATINUM",
+                        "en": "HUB Montréal 2023 - PLATINUM badge"
+                    },
+                    "online_at": 1682427600,
+                    "organizer_id": "LGN",
+                    "parking": {},
+                    "payment_organizer_account_id": 3064,
+                    "payment_organizer_account_owner_id": "LGN",
+                    "payment_organizer_account_owner_type": "organizer",
+                    "payment_ticketing_account_id": 282,
+                    "payment_ticketing_account_owner_id": "CA",
+                    "payment_ticketing_account_owner_type": "ticketing",
+                    "payment_terminal_account_id": 0,
+                    "payment_terminal_account_owner_id": null,
+                    "payment_terminal_account_owner_type": "ticketing",
+                    "payments_cheque": {},
+                    "presenter_name": {
+                        "fr": "Panasonic et Banque Nationale",
+                        "en": "Panasonic and National Bank"
+                    },
+                    "presenter_plural": true,
+                    "private": true,
+                    "shipping_text": {},
+                    "receipt_text": {
+                        "fr": "<p>Merci de votre inscription à HUB Montréal ! </p>\r\n<p><strong>Qu’arrive-t-il ensuite? </strong></p>\r\n<p>-Vous recevrez les instructions pour la récupération de votre passe.  </p>\r\n<p>Deux semaines avant l'événement, vous recevrez un lien unique pour vous connecter à la plateforme en ligne Swapcard de l'événement où vous trouverez le programme complet, la liste des participants, votre horaire personnalisé et bien plus encore ! </p>\r\n<p> __________ </p>\r\n<p><strong>Politique de remboursement </strong></p>\r\n<p>- Toute demande d’annulation doit être soumise par écrit à  billetterie@hubmontreal.com  </p>\r\n<p>- Les inscriptions annulées au minimum 30 jours avant l'événement pourront être remboursées. Toutefois, les frais de transaction ne seront pas remboursables et à la charge des acheteurs.  </p>\r\n<p>- Aucune demande de remboursement ne sera acceptée ni traitée après cette date.   </p>\r\n<p>- Nous nous réservons également le droit d’annuler l’événement ; le cas échéant, nous rembourserons la totalité des inscriptions. Toutefois, les frais de transaction ne seront pas remboursables et à la charge des acheteurs.</p>\r\n<p>__________ </p>\r\n<p><strong>Renonciation relative aux enregistrements et à la prise d’images</strong>  </p>\r\n<p>- HUB Montréal se réserve le droit d’enregistrer l’ensemble des activités de l’événement et de les diffuser à la télévision par câble ou satellite, sur Internet ou par tout autre moyen de distribution connu ou inconnu.  </p>\r\n<p>- HUB Montréal se réserve également le droit de prendre des photos pendant l’événement et de les utiliser à des fins promotionnelles.  </p>\r\n<p>- En participant à HUB Montréal, vous nous autorisez à utiliser ces images et ces enregistrements. </p>",
+                        "en": "<p>Thank you for your registration to HUB Montreal!  </p>\r\n<p><strong>What ‘s next?  </strong>  </p>\r\n<p>- You will receive instructions on how to retrieve your pass.   </p>\r\n<p>- Two weeks before the event, you will receive a unique link to connect to the event's online platform Swapcard where you’ll find the full program, the list of attendees, your personalize schedule and much more!  </p>\r\n<p>__________ </p>\r\n<p><strong>Refund policy </strong></p>\r\n<p>- All cancellation requests must be made in writing at billetterie@hubmontreal.com  </p>\r\n<p>- Registrations cancelled 30 days before the event will be refunded. However, transaction fees will not be refundable and are at the expense of the buyers.   </p>\r\n<p>- No refund requests will be accepted or processed after this date.   </p>\r\n<p>- We also reserve the right to cancel the event, and if this occurs, we shall refund the totality of the inscriptions. However, transaction fees will not be refundable and are at the expense of the buyers. </p>\r\n<p>__________ </p>\r\n<p><strong>Recording and image waiver </strong></p>\r\n<p>- HUB Montreal reserves the right to broadcast and transmit recorded content via TV, Satellite, Cable, Internet, and any other means of distribution (known or unknown).  </p>\r\n<p>- HUB Montreal also reserves the right to capture photographic images during the event and use them for promotional purposes.  </p>\r\n<p>- By participating in  HUB Montreal, you grant authorization for the use of these images and content.  </p>"
+                    },
+                    "reminder_text": {},
+                    "sequence_level": "event",
+                    "sequence_offset": 0,
+                    "settled": false,
+                    "soldout": {},
+                    "starts_at": 1697500800,
+                    "status": "online",
+                    "streaming_donation_display": false,
+                    "streaming_embed": false,
+                    "streaming_embed_url": null,
+                    "streaming_expiry": 86400,
+                    "streaming_expiry_base": "event.starts_at",
+                    "streaming_info_display": false,
+                    "streaming_info_json_path": {},
+                    "streaming_info_title": {},
+                    "streaming_launch": "start",
+                    "streaming_max_plays": null,
+                    "streaming_password": null,
+                    "streaming_provider": null,
+                    "streaming_survey_description": {},
+                    "streaming_survey_display": false,
+                    "streaming_survey_submit": false,
+                    "streaming_survey_title": {},
+                    "streaming_type": null,
+                    "streaming_url": null,
+                    "suspended": false,
+                    "theme_id": null,
+                    "time_zone": "America/Toronto",
+                    "token": "grL0ABMBYgYFWsXwq6cR73hRXagqYg55kH6w2CDY",
+                    "trackers": [],
+                    "updated_at": 1683019221,
+                    "venues": [
+                        9903,
+                        8634
+                    ],
+                    "virtual": false,
+                    "created_at": 1652997100
+                },
+                "rate": {
+                    "addon": false,
+                    "addons": [
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960
+                    ],
+                    "attachment": false,
+                    "available": 49,
+                    "capacity": 50,
+                    "capacity_type": "single",
+                    "complimentary": 0,
+                    "consigned": 0,
+                    "custom_id": null,
+                    "deleted": false,
+                    "delivery_electronic": true,
+                    "delivery_mail": false,
+                    "delivery_pickup": false,
+                    "description": {},
+                    "display_remaining": false,
+                    "display_soldout": true,
+                    "event_id": 318293,
+                    "id": 1120025,
+                    "layout": [
+                        {
+                            "text": "#PRESENTERS#",
+                            "font": 4,
+                            "size": 8,
+                            "spacing": 2
+                        },
+                        {
+                            "text": "#DESCRIPTION1#",
+                            "font": 7,
+                            "size": 12,
+                            "spacing": 2
+                        },
+                        {
+                            "text": "#DESCRIPTION2#",
+                            "font": 7,
+                            "size": 10,
+                            "spacing": 2
+                        },
+                        {
+                            "text": "#DESCRIPTION3#",
+                            "font": 7,
+                            "size": 10,
+                            "spacing": 2
+                        },
+                        {
+                            "text": "#DATE#",
+                            "font": 6,
+                            "size": 9,
+                            "spacing": 0
+                        },
+                        {
+                            "text": "#VENUE#",
+                            "font": 6,
+                            "size": 8,
+                            "spacing": 0
+                        }
+                    ],
+                    "multientry": false,
+                    "name": {
+                        "en": "Early Bird",
+                        "fr": "Lève-tôt"
+                    },
+                    "order": 1,
+                    "order_max": 1,
+                    "order_min": 1,
+                    "price": 1081.71,
+                    "questions": [
+                        {
+                            "level": "order",
+                            "order": 1,
+                            "question_id": 1001,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online",
+                                "receipt"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "order",
+                            "order": 2,
+                            "question_id": 1002,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online",
+                                "receipt"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 3,
+                            "question_id": 1011,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online",
+                                "receipt"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 4,
+                            "question_id": 4571,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 5,
+                            "question_id": 1004,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 6,
+                            "question_id": 1006,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 7,
+                            "question_id": 1005,
+                            "receipt_recipient": false,
+                            "required": false,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 8,
+                            "question_id": 1007,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "order",
+                            "order": 9,
+                            "question_id": 1009,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online",
+                                "receipt"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 10,
+                            "question_id": 9358,
+                            "receipt_recipient": false,
+                            "required": false,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 11,
+                            "question_id": 1008,
+                            "receipt_recipient": false,
+                            "required": false,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 12,
+                            "question_id": 4592,
+                            "receipt_recipient": false,
+                            "required": false,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 13,
+                            "question_id": 4570,
+                            "receipt_recipient": false,
+                            "required": false,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 14,
+                            "question_id": 7210,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 15,
+                            "question_id": 4676,
+                            "receipt_recipient": false,
+                            "required": false,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 16,
+                            "question_id": 4667,
+                            "receipt_recipient": false,
+                            "required": false,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 18,
+                            "question_id": 9351,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 19,
+                            "question_id": 9352,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 20,
+                            "question_id": 9355,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 21,
+                            "question_id": 9354,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 22,
+                            "question_id": 9353,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 23,
+                            "question_id": 9356,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 24,
+                            "question_id": 9357,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        }
+                    ],
+                    "reserved": 0,
+                    "restricted_domain": false,
+                    "restricted_facebook": false,
+                    "restricted_password": false,
+                    "restricted_url": false,
+                    "sale_ends_at": 1685677500,
+                    "sale_starts_at": 1682517600,
+                    "scannable": true,
+                    "seated": false,
+                    "sequence_offset": 0,
+                    "sold": 1,
+                    "taxable": null,
+                    "token": "ZZHlnb1icNEX9VES",
+                    "validated": 0
+                },
+                "order": {
+                    "agency_id": "CA",
+                    "brand_id": "tpos",
+                    "buyer_birthyear": null,
+                    "buyer_city": "Ville",
+                    "buyer_country_id": "CA",
+                    "buyer_email": "leo@avalancheprod.com",
+                    "buyer_emailshare": false,
+                    "buyer_gender": null,
+                    "buyer_firstname": "Prenom",
+                    "buyer_id": 1200001,
+                    "buyer_ip": "37.166.28.64",
+                    "buyer_lastname": "Nom",
+                    "buyer_organization": "",
+                    "buyer_phone": null,
+                    "buyer_postalcode": "H2L3S2",
+                    "buyer_province_id": "QC",
+                    "buyer_street1": "Adresse1",
+                    "buyer_street2": "Adresse2",
+                    "canceled": false,
+                    "channel": "online",
+                    "completed": true,
+                    "costs_credit": 0,
+                    "costs_donations": 0,
+                    "costs_gift_card_paid": 0,
+                    "costs_gift_cards": 0,
+                    "costs_installments": 0,
+                    "costs_payments": 0,
+                    "costs_services": 0,
+                    "costs_shipping": 0,
+                    "costs_taxes": 0,
+                    "costs_tickets": 0,
+                    "costs_total": 0,
+                    "costs_unpaid": 0,
+                    "created_at": 1683019221,
+                    "currency_id": "CAD",
+                    "embed_domain": "lepointdevente.com",
+                    "embed_url": "https://lepointdevente.com",
+                    "id": 5244995,
+                    "items": [
+                        {
+                            "costs": [],
+                            "event_id": 318293,
+                            "rate_id": 1120025,
+                            "service_id": null,
+                            "service_type_id": null,
+                            "service_supplier_id": null,
+                            "ticket_id": 43030461,
+                            "type": "ticket"
+                        },
+                        {
+                            "costs": [],
+                            "event_id": 318293,
+                            "rate_id": 1127960,
+                            "service_id": null,
+                            "service_type_id": null,
+                            "service_supplier_id": null,
+                            "ticket_id": 43030462,
+                            "type": "ticket"
+                        }
+                    ],
+                    "lang": "fr",
+                    "organizer_id": null,
+                    "payments": [],
+                    "promocode": "TESTTESTHUB23",
+                    "referrer_domain": null,
+                    "referrer_url": null,
+                    "taxes": {
+                        "gift_card": {},
+                        "organizer": {},
+                        "service": {},
+                        "shipping": {},
+                        "ticket": {},
+                        "ticketing": {}
+                    },
+                    "timezoneoffset": -240,
+                    "token": "5ZRK82fNgI4BrIFXiz0MiheGwJKclKL90p7vyef4",
+                    "user_id": 4594551
+                }
             },
             {
-                "object": "ticket_question",
-                "id": "43030457-9356",
-                "answers": [
+                "object": "ticket",
+                "id": 43030462,
+                "agency_id": "CA",
+                "attached": false,
+                "canceled": false,
+                "canceled_at": null,
+                "capacity": true,
+                "channel": "online",
+                "chat_hidden_authors": [],
+                "chat_moderator": false,
+                "chat_restricted": false,
+                "chat_verified": false,
+                "complimentary": false,
+                "created_at": 1683019221,
+                "data": [
                     {
-                        "question_choice_id": 20053,
-                        "value": "Un projet prêt à diffusion"
+                        "field": {
+                            "id": 7821,
+                            "type": "text",
+                            "label": "Please specify if you have any food allergies, intolerances or dietary restrictions"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "Allergie"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 1001,
+                            "type": "text",
+                            "label": "First Name"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "Prenom"
+                            }
+                        ]
+                    },
+                    {
+                        "field": {
+                            "id": 1002,
+                            "type": "text",
+                            "label": "Last Name"
+                        },
+                        "values": [
+                            {
+                                "id": null,
+                                "value": "Nom"
+                            }
+                        ]
                     }
                 ],
-                "ticket_id": 43030457,
-                "question_id": 9356,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-9357",
-                "answers": [
+                "delivery": "pickup",
+                "event_id": 318293,
+                "fee": 0,
+                "fee_insurance": 0,
+                "fee_insurance_rate": 0,
+                "fee_organizer": 0,
+                "fee_organizer_amount": 0,
+                "fee_organizer_rate": 0,
+                "fee_ticketing": 0,
+                "fee_ticketing_amount": 0,
+                "fee_ticketing_rate": 0,
+                "fee_transaction": 0,
+                "fee_transaction_in_ticketing_fee": false,
+                "fee_transaction_rate": 0,
+                "fields": [],
+                "gate_id": null,
+                "google_pay_object_id": null,
+                "issuance": true,
+                "lang": "fr",
+                "order_id": 5244995,
+                "organizer_id": "LGN",
+                "parent_id": null,
+                "parent_type": null,
+                "password": null,
+                "payment_organizer_account_id": 3064,
+                "payment_organizer_account_owner_id": "LGN",
+                "payment_organizer_account_owner_type": "ticketing",
+                "payment_ticketing_account_id": 282,
+                "payment_ticketing_account_owner_id": "CA",
+                "payment_ticketing_account_owner_type": "ticketing",
+                "payment_terminal_account_id": null,
+                "payment_terminal_account_owner_id": null,
+                "payment_terminal_account_owner_type": null,
+                "pickedup": false,
+                "price": 0,
+                "printed": false,
+                "promotion_id": null,
+                "promotion_code": null,
+                "promotion_discount": 0,
+                "questions": [
                     {
-                        "question_choice_id": null,
-                        "value": "AZiterqzdAutres"
+                        "object": "ticket_question",
+                        "id": "43030462-1001",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "Prenom"
+                            }
+                        ],
+                        "ticket_id": 43030462,
+                        "question_id": 1001,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030462-1002",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "Nom"
+                            }
+                        ],
+                        "ticket_id": 43030462,
+                        "question_id": 1002,
+                        "updated_at": 1683019222
+                    },
+                    {
+                        "object": "ticket_question",
+                        "id": "43030462-7821",
+                        "answers": [
+                            {
+                                "question_choice_id": null,
+                                "value": "Allergie"
+                            }
+                        ],
+                        "ticket_id": 43030462,
+                        "question_id": 7821,
+                        "updated_at": 1683019222
                     }
                 ],
-                "ticket_id": 43030457,
-                "question_id": 9357,
-                "updated_at": 1683018128
-            },
-            {
-                "object": "ticket_question",
-                "id": "43030457-9358",
-                "answers": [
+                "rate_id": 1127960,
+                "reserve_id": null,
+                "seat_id": null,
+                "sequence": 16,
+                "shipped": false,
+                "streaming_ended_at": [],
+                "streaming_survey_submitted_at": null,
+                "subscription_plan_id": null,
+                "tax": 0,
+                "tax_details": [],
+                "tax_fee_organizer": 0,
+                "tax_fee_organizer_details": [],
+                "tax_fee_organizer_taxable": 0,
+                "tax_fee_ticketing": 0,
+                "tax_fee_ticketing_details": [],
+                "tax_fee_ticketing_taxable": 0,
+                "tax_price": 0,
+                "tax_price_details": [],
+                "tax_price_taxable": 0,
+                "tax_taxable": 0,
+                "token": "EULnmmSe9QRYeYsVGr8o53tx7aMc6nI1zeNaI7nV",
+                "total": 0,
+                "transfers": [],
+                "uid": [
                     {
-                        "question_choice_id": null,
-                        "value": true
+                        "code": "142551093824",
+                        "type": "QR"
                     }
                 ],
-                "ticket_id": 43030457,
-                "question_id": 9358,
-                "updated_at": 1683018128
+                "updated_at": 1683019221,
+                "validated": false,
+                "validated_at": null,
+                "validations": [],
+                "zone_id": null,
+                "event": {
+                    "acts": [],
+                    "agency_id": "CA",
+                    "attendance_mode": "offline",
+                    "currency_id": "CAD",
+                    "countries_allow": [],
+                    "countries_deny": [],
+                    "custom_id": null,
+                    "settled_at": false,
+                    "date_starts": "2023-10-16",
+                    "date_ends": "2023-10-18",
+                    "dates": [
+                        {
+                            "date": "2023-10-16",
+                            "entrance_at": 1697461200,
+                            "starts_at": 1697500800,
+                            "ends_at": 1697511600
+                        },
+                        {
+                            "date": "2023-10-17",
+                            "entrance_at": 1697547600,
+                            "starts_at": 1697587200,
+                            "ends_at": 1697598000
+                        },
+                        {
+                            "date": "2023-10-18",
+                            "entrance_at": 1697634000,
+                            "starts_at": 1697673600,
+                            "ends_at": 1697684400
+                        }
+                    ],
+                    "deleted": false,
+                    "delivery_electronic": {},
+                    "delivery_mail": {},
+                    "delivery_pickup": {},
+                    "description": {
+                        "fr": "<p><strong>HUB Montréal, le marché international de la créativité numérique revient pour une 7ème édition du 16 au 18 octobre 2023. </strong>Le rendez-vous incontournable de l’automne pour échanger, tisser des liens et découvrir les dernières tendances de la créativité numérique en présence de professionnels du monde entier.</p>\r\n<p>À l’occasion de cette 7e édition, 2 nouveautés seront proposées: les tables-rondes et ateliers d’échanges (“workshops “) qui permettront aux participants de partager leur expertise sur les innovations les plus récentes du secteur, leur connaissance des secteurs connexes, et d'échanger autour de l'impact social de l'industrie.</p>\r\n<p>Ne manquez rien de la 7e édition de HUB Montréal grâce à la passe PLATINUM! Il vous donnera accès à l’intégralité de nos contenus (les activités professionnelles, les tables rondes et ateliers d’échanges, le  parcours expérientiel etc…) ainsi qu’à notre soirée de clôture, l’opportunité parfaite de vivre une expérience 360!</p>\r\n<p><strong>La passe PLATINUM comprend l'accès à l’intégralité de nos contenus et à la soirée de clôture (valeur de la soirée 225$ + taxes).</strong></p>\r\n<p><strong>La passe PLATINUM vous donne accès à: </strong></p>\r\n<p><strong>- Minimum de 5 rencontres B2B personnalisées</strong> par notre conciergerie - Accès aux conférences et vitrines ;</p>\r\n<p>-Accès à l'espace démo ;</p>\r\n<p>- Accès aux workshops et tables rondes ;</p>\r\n<p>- Accès prioritaire aux différentes activités du parcours expérientiel dans la ville de Montréal ;</p>\r\n<p>- Accès aux espaces de réseautage libre ;</p>\r\n<p>- Plateforme virtuelle et application mobile – profil, contenu et réseautage libre</p>\r\n<p>La plateforme en ligne sera accessible avant et après l’événement, soit du 10 au 25 octobre, afin de vous laisser le temps et l'espace nécessaire aux connexions et aux échanges.</p>\r\n<p><strong>ET ENCORE...</strong></p>\r\n<p>- 3 x Déjeuner réseautage</p>\r\n<p>- 3 x Midi-maillages – lunch inclus</p>\r\n<p>- 3 x 5@7 – Maillage et breuvages</p>\r\n<p>- La soirée de clôture de HUB 2023 (5@7, souper-réseautage et remise des prix).</p>",
+                        "en": "<p><strong>HUB Montréal, the international digital creativity market, is back for its 7th edition from October 16 to 18, 2023.</strong> This fall’s must-visit event to exchange ideas, build work relationships and discover the latest trends in digital creativity with professionals from all over the world<strong>.</strong></p>\r\n<p>For this 7th edition, two new activities will be offered: roundtables and exchange workshops that will allow participants to share their expertise on the latest innovations in the sector, their knowledge of related sectors, and to exchange around the social impact of the industry.</p>\r\n<p>Don't miss anything from the 7th edition of HUB Montréal thanks to the PLATINUM badge! It will give you access to all of our content (professional activities, roundtables and exchange workshops, experiential path, etc. . . ) as well as to our closing evening, the perfect opportunity to live a 360-degree experience!</p>\r\n<p><strong>The PLATINUM badge includes a complete access to all of our content and the closing night (value of the closing night $225 + taxes).</strong></p>\r\n<p><strong>The PLATINUM package gives you access to:</strong></p>\r\n<p><strong>- A minimum of 5 B2B meetings</strong> personalized by our concierge;</p>\r\n<p>- Access to conferences and showcases;</p>\r\n<p>-Access to the demo space;</p>\r\n<p>- Access to workshops and roundtables; </p>\r\n<p>- Priority access to the various activities of the HUB(mazing) tour in the city of Montreal;</p>\r\n<p>- Access to open networking spaces;</p>\r\n<p>- Virtual platform and mobile app – open profile, content and networking</p>\r\n<p>The online platform will be available before and after the event, from October 10 to 25, to give you time and space to connect and exchange.</p>\r\n<p><strong>AND AGAIN. . .</strong></p>\r\n<p>- 3 x Networking Lunch</p>\r\n<p>- 3 x Speed meetings – lunch included</p>\r\n<p>- 3 x 5@7 – speed meetings and drinks</p>\r\n<p>- The closing night of HUB 2023 (5@7, dinner-networking and awards ceremony).</p>"
+                    },
+                    "directions": {},
+                    "display_attendees": false,
+                    "display_chat": true,
+                    "display_date": true,
+                    "display_fees": true,
+                    "display_location": true,
+                    "display_presenter": true,
+                    "display_time": false,
+                    "display_viewers": true,
+                    "donation_campaign_id": null,
+                    "ends_at": 1697684400,
+                    "entrance_at": 1697461200,
+                    "etickets_text": {},
+                    "google_pay_class_id": null,
+                    "groups": [
+                        9704
+                    ],
+                    "id": 318293,
+                    "images": {
+                        "fr": [
+                            {
+                                "path": "https://tpos.s3.amazonaws.com/events/LGN/23/10/19/001/lgn231019001-1152x648-fr-6448f4cc.png",
+                                "width": 1152,
+                                "height": 648
+                            },
+                            {
+                                "path": "https://tpos.s3.amazonaws.com/events/LGN/23/10/19/001/lgn231019001-640x360-fr-m-6448f4cc.png",
+                                "width": 640,
+                                "height": 360
+                            },
+                            {
+                                "path": "https://tpos.s3.amazonaws.com/events/LGN/23/10/19/001/lgn231019001-320x180-fr-s-6448f4cc.png",
+                                "width": 320,
+                                "height": 180
+                            }
+                        ],
+                        "en": [
+                            {
+                                "path": "https://tpos.s3.amazonaws.com/events/LGN/23/10/19/001/lgn231019001-1152x648-en-6448f4cd.png",
+                                "width": 1152,
+                                "height": 648
+                            },
+                            {
+                                "path": "https://tpos.s3.amazonaws.com/events/LGN/23/10/19/001/lgn231019001-640x360-en-m-6448f4ce.png",
+                                "width": 640,
+                                "height": 360
+                            },
+                            {
+                                "path": "https://tpos.s3.amazonaws.com/events/LGN/23/10/19/001/lgn231019001-320x180-en-s-6448f4cd.png",
+                                "width": 320,
+                                "height": 180
+                            }
+                        ]
+                    },
+                    "key": "hubplatinum2023",
+                    "languages": [
+                        "fr",
+                        "en"
+                    ],
+                    "name": {
+                        "fr": "HUB Montréal 2023 - Passe PLATINUM",
+                        "en": "HUB Montréal 2023 - PLATINUM badge"
+                    },
+                    "online_at": 1682427600,
+                    "organizer_id": "LGN",
+                    "parking": {},
+                    "payment_organizer_account_id": 3064,
+                    "payment_organizer_account_owner_id": "LGN",
+                    "payment_organizer_account_owner_type": "organizer",
+                    "payment_ticketing_account_id": 282,
+                    "payment_ticketing_account_owner_id": "CA",
+                    "payment_ticketing_account_owner_type": "ticketing",
+                    "payment_terminal_account_id": 0,
+                    "payment_terminal_account_owner_id": null,
+                    "payment_terminal_account_owner_type": "ticketing",
+                    "payments_cheque": {},
+                    "presenter_name": {
+                        "fr": "Panasonic et Banque Nationale",
+                        "en": "Panasonic and National Bank"
+                    },
+                    "presenter_plural": true,
+                    "private": true,
+                    "shipping_text": {},
+                    "receipt_text": {
+                        "fr": "<p>Merci de votre inscription à HUB Montréal ! </p>\r\n<p><strong>Qu’arrive-t-il ensuite? </strong></p>\r\n<p>-Vous recevrez les instructions pour la récupération de votre passe.  </p>\r\n<p>Deux semaines avant l'événement, vous recevrez un lien unique pour vous connecter à la plateforme en ligne Swapcard de l'événement où vous trouverez le programme complet, la liste des participants, votre horaire personnalisé et bien plus encore ! </p>\r\n<p> __________ </p>\r\n<p><strong>Politique de remboursement </strong></p>\r\n<p>- Toute demande d’annulation doit être soumise par écrit à  billetterie@hubmontreal.com  </p>\r\n<p>- Les inscriptions annulées au minimum 30 jours avant l'événement pourront être remboursées. Toutefois, les frais de transaction ne seront pas remboursables et à la charge des acheteurs.  </p>\r\n<p>- Aucune demande de remboursement ne sera acceptée ni traitée après cette date.   </p>\r\n<p>- Nous nous réservons également le droit d’annuler l’événement ; le cas échéant, nous rembourserons la totalité des inscriptions. Toutefois, les frais de transaction ne seront pas remboursables et à la charge des acheteurs.</p>\r\n<p>__________ </p>\r\n<p><strong>Renonciation relative aux enregistrements et à la prise d’images</strong>  </p>\r\n<p>- HUB Montréal se réserve le droit d’enregistrer l’ensemble des activités de l’événement et de les diffuser à la télévision par câble ou satellite, sur Internet ou par tout autre moyen de distribution connu ou inconnu.  </p>\r\n<p>- HUB Montréal se réserve également le droit de prendre des photos pendant l’événement et de les utiliser à des fins promotionnelles.  </p>\r\n<p>- En participant à HUB Montréal, vous nous autorisez à utiliser ces images et ces enregistrements. </p>",
+                        "en": "<p>Thank you for your registration to HUB Montreal!  </p>\r\n<p><strong>What ‘s next?  </strong>  </p>\r\n<p>- You will receive instructions on how to retrieve your pass.   </p>\r\n<p>- Two weeks before the event, you will receive a unique link to connect to the event's online platform Swapcard where you’ll find the full program, the list of attendees, your personalize schedule and much more!  </p>\r\n<p>__________ </p>\r\n<p><strong>Refund policy </strong></p>\r\n<p>- All cancellation requests must be made in writing at billetterie@hubmontreal.com  </p>\r\n<p>- Registrations cancelled 30 days before the event will be refunded. However, transaction fees will not be refundable and are at the expense of the buyers.   </p>\r\n<p>- No refund requests will be accepted or processed after this date.   </p>\r\n<p>- We also reserve the right to cancel the event, and if this occurs, we shall refund the totality of the inscriptions. However, transaction fees will not be refundable and are at the expense of the buyers. </p>\r\n<p>__________ </p>\r\n<p><strong>Recording and image waiver </strong></p>\r\n<p>- HUB Montreal reserves the right to broadcast and transmit recorded content via TV, Satellite, Cable, Internet, and any other means of distribution (known or unknown).  </p>\r\n<p>- HUB Montreal also reserves the right to capture photographic images during the event and use them for promotional purposes.  </p>\r\n<p>- By participating in  HUB Montreal, you grant authorization for the use of these images and content.  </p>"
+                    },
+                    "reminder_text": {},
+                    "sequence_level": "event",
+                    "sequence_offset": 0,
+                    "settled": false,
+                    "soldout": {},
+                    "starts_at": 1697500800,
+                    "status": "online",
+                    "streaming_donation_display": false,
+                    "streaming_embed": false,
+                    "streaming_embed_url": null,
+                    "streaming_expiry": 86400,
+                    "streaming_expiry_base": "event.starts_at",
+                    "streaming_info_display": false,
+                    "streaming_info_json_path": {},
+                    "streaming_info_title": {},
+                    "streaming_launch": "start",
+                    "streaming_max_plays": null,
+                    "streaming_password": null,
+                    "streaming_provider": null,
+                    "streaming_survey_description": {},
+                    "streaming_survey_display": false,
+                    "streaming_survey_submit": false,
+                    "streaming_survey_title": {},
+                    "streaming_type": null,
+                    "streaming_url": null,
+                    "suspended": false,
+                    "theme_id": null,
+                    "time_zone": "America/Toronto",
+                    "token": "grL0ABMBYgYFWsXwq6cR73hRXagqYg55kH6w2CDY",
+                    "trackers": [],
+                    "updated_at": 1683019221,
+                    "venues": [
+                        9903,
+                        8634
+                    ],
+                    "virtual": false,
+                    "created_at": 1652997100
+                },
+                "rate": {
+                    "addon": true,
+                    "addons": [
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960,
+                        1127960
+                    ],
+                    "attachment": false,
+                    "available": 199,
+                    "capacity": 200,
+                    "capacity_type": "single",
+                    "complimentary": 0,
+                    "consigned": 0,
+                    "custom_id": null,
+                    "deleted": false,
+                    "delivery_electronic": false,
+                    "delivery_mail": false,
+                    "delivery_pickup": true,
+                    "description": {
+                        "en": "Included - The unique opportunity to close this 7th edition during this festive evening in three moments: networking, dinner and awards ceremony.",
+                        "fr": "Inclus dans votre accès - L’occasion unique de clôturer cette 7e édition lors de cette soirée festive en trois temps : réseautage, souper et remise de prix"
+                    },
+                    "display_remaining": false,
+                    "display_soldout": false,
+                    "event_id": 318293,
+                    "id": 1127960,
+                    "layout": [
+                        {
+                            "text": "#PRESENTERS#",
+                            "font": 4,
+                            "size": 8,
+                            "spacing": 2
+                        },
+                        {
+                            "text": "#DESCRIPTION1#",
+                            "font": 7,
+                            "size": 12,
+                            "spacing": 2
+                        },
+                        {
+                            "text": "#DESCRIPTION2#",
+                            "font": 7,
+                            "size": 10,
+                            "spacing": 2
+                        },
+                        {
+                            "text": "#DESCRIPTION3#",
+                            "font": 7,
+                            "size": 10,
+                            "spacing": 2
+                        },
+                        {
+                            "text": "#DATE# - #TIME#",
+                            "font": 6,
+                            "size": 9,
+                            "spacing": 0
+                        },
+                        {
+                            "text": "#VENUE#",
+                            "font": 6,
+                            "size": 8,
+                            "spacing": 0
+                        }
+                    ],
+                    "multientry": false,
+                    "name": {
+                        "en": "Closing ceremony - Wednesday October 18th, 2023",
+                        "fr": "Soirée de clôture - Mercredi 18 octobre 2023"
+                    },
+                    "order": 6,
+                    "order_max": 1,
+                    "order_min": 1,
+                    "price": 0,
+                    "questions": [
+                        {
+                            "level": "order",
+                            "order": 1,
+                            "question_id": 1001,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online",
+                                "receipt"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "order",
+                            "order": 2,
+                            "question_id": 1002,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online",
+                                "receipt"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 10,
+                            "question_id": 9358,
+                            "receipt_recipient": false,
+                            "required": false,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        },
+                        {
+                            "level": "ticket",
+                            "order": 17,
+                            "question_id": 7821,
+                            "receipt_recipient": false,
+                            "required": true,
+                            "scopes": [
+                                "offline",
+                                "online"
+                            ],
+                            "selections_max": null,
+                            "selections_min": null
+                        }
+                    ],
+                    "reserved": 0,
+                    "restricted_domain": false,
+                    "restricted_facebook": false,
+                    "restricted_password": false,
+                    "restricted_url": false,
+                    "sale_ends_at": 1695008700,
+                    "sale_starts_at": 1682481600,
+                    "scannable": true,
+                    "seated": false,
+                    "sequence_offset": 0,
+                    "sold": 1,
+                    "taxable": null,
+                    "token": "WpwHWr8lUoInu4Ue",
+                    "validated": 0
+                },
+                "order": {
+                    "agency_id": "CA",
+                    "brand_id": "tpos",
+                    "buyer_birthyear": null,
+                    "buyer_city": "Ville",
+                    "buyer_country_id": "CA",
+                    "buyer_email": "leo@avalancheprod.com",
+                    "buyer_emailshare": false,
+                    "buyer_gender": null,
+                    "buyer_firstname": "Prenom",
+                    "buyer_id": 1200001,
+                    "buyer_ip": "37.166.28.64",
+                    "buyer_lastname": "Nom",
+                    "buyer_organization": "",
+                    "buyer_phone": null,
+                    "buyer_postalcode": "H2L3S2",
+                    "buyer_province_id": "QC",
+                    "buyer_street1": "Adresse1",
+                    "buyer_street2": "Adresse2",
+                    "canceled": false,
+                    "channel": "online",
+                    "completed": true,
+                    "costs_credit": 0,
+                    "costs_donations": 0,
+                    "costs_gift_card_paid": 0,
+                    "costs_gift_cards": 0,
+                    "costs_installments": 0,
+                    "costs_payments": 0,
+                    "costs_services": 0,
+                    "costs_shipping": 0,
+                    "costs_taxes": 0,
+                    "costs_tickets": 0,
+                    "costs_total": 0,
+                    "costs_unpaid": 0,
+                    "created_at": 1683019221,
+                    "currency_id": "CAD",
+                    "embed_domain": "lepointdevente.com",
+                    "embed_url": "https://lepointdevente.com",
+                    "id": 5244995,
+                    "items": [
+                        {
+                            "costs": [],
+                            "event_id": 318293,
+                            "rate_id": 1120025,
+                            "service_id": null,
+                            "service_type_id": null,
+                            "service_supplier_id": null,
+                            "ticket_id": 43030461,
+                            "type": "ticket"
+                        },
+                        {
+                            "costs": [],
+                            "event_id": 318293,
+                            "rate_id": 1127960,
+                            "service_id": null,
+                            "service_type_id": null,
+                            "service_supplier_id": null,
+                            "ticket_id": 43030462,
+                            "type": "ticket"
+                        }
+                    ],
+                    "lang": "fr",
+                    "organizer_id": null,
+                    "payments": [],
+                    "promocode": "TESTTESTHUB23",
+                    "referrer_domain": null,
+                    "referrer_url": null,
+                    "taxes": {
+                        "gift_card": {},
+                        "organizer": {},
+                        "service": {},
+                        "shipping": {},
+                        "ticket": {},
+                        "ticketing": {}
+                    },
+                    "timezoneoffset": -240,
+                    "token": "5ZRK82fNgI4BrIFXiz0MiheGwJKclKL90p7vyef4",
+                    "user_id": 4594551
+                }
             }
         ]
     }
