@@ -1,0 +1,333 @@
+[
+    {
+        "array": [
+            {
+                "object": "ticket_question",
+                "id": "43030457-1001",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "Prenom"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 1001,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-1002",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "Nom"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 1002,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-1004",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "Ville"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 1004,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-1005",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "QC"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 1005,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-1006",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "CA"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 1006,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-1007",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "H2L3S2"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 1007,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-1008",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "4384101687"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 1008,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-1009",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "leo@avalancheprod.com"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 1009,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-1011",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "Compagnie"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 1011,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-4570",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "Biohraphr"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 4570,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-4571",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "Fonction"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 4571,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-4592",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "www.google.fr"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 4592,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-4667",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "https://tpos-user-uploads.s3.ca-central-1.amazonaws.com/2023/05/02/5244993/yYuyEjmSxBSPtIGb/Capture d’écran, le 2023-04-26 à 16.27.52.png"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 4667,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-4676",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "https://tpos-user-uploads.s3.ca-central-1.amazonaws.com/2023/05/02/5244993/dyavZp2s2QWovE18/Capture d’écran, le 2023-05-01 à 10.51.13.png"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 4676,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-7210",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": true
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 7210,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-9351",
+                "answers": [
+                    {
+                        "question_choice_id": 19968,
+                        "value": "Australie"
+                    },
+                    {
+                        "question_choice_id": 19969,
+                        "value": "Belgique"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 9351,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-9352",
+                "answers": [
+                    {
+                        "question_choice_id": 19980,
+                        "value": "Allemagne"
+                    },
+                    {
+                        "question_choice_id": 19982,
+                        "value": "Asie"
+                    },
+                    {
+                        "question_choice_id": 19983,
+                        "value": "Australie"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 9352,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-9353",
+                "answers": [
+                    {
+                        "question_choice_id": 19995,
+                        "value": "Animation"
+                    },
+                    {
+                        "question_choice_id": 20000,
+                        "value": "Effets visuels"
+                    },
+                    {
+                        "question_choice_id": 20001,
+                        "value": "Environnement immersif/interactif/réactif"
+                    },
+                    {
+                        "question_choice_id": 20002,
+                        "value": "Événementiel"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 9353,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-9354",
+                "answers": [
+                    {
+                        "question_choice_id": 20020,
+                        "value": "Animation"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 9354,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-9355",
+                "answers": [
+                    {
+                        "question_choice_id": 20046,
+                        "value": "Un concept"
+                    },
+                    {
+                        "question_choice_id": 20047,
+                        "value": "Des services ou une expertise pour un projet"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 9355,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-9356",
+                "answers": [
+                    {
+                        "question_choice_id": 20053,
+                        "value": "Un projet prêt à diffusion"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 9356,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-9357",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": "AZiterqzdAutres"
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 9357,
+                "updated_at": 1683018128
+            },
+            {
+                "object": "ticket_question",
+                "id": "43030457-9358",
+                "answers": [
+                    {
+                        "question_choice_id": null,
+                        "value": true
+                    }
+                ],
+                "ticket_id": 43030457,
+                "question_id": 9358,
+                "updated_at": 1683018128
+            }
+        ]
+    }
+]
